@@ -1,3 +1,4 @@
 alt + arrow = change the position of line
 ctrl+alt = multiple cursor
 crtl + shift + L = edit multiple words at a time
+alt+shift+K = auto fomart spacing
